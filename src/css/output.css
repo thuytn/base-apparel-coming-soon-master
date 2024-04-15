@@ -890,7 +890,7 @@ body {
   }
 
   .lg\:bg-main {
-    background-image: url('/images/bg-pattern-desktop.svg');
+    background-image: url('../../images/bg-pattern-desktop.svg');
   }
 
   .lg\:bg-cover {
@@ -956,10 +956,6 @@ body {
     display: flex;
   }
 
-  .\32xl\:max-w-\[1440px\] {
-    max-width: 1440px;
-  }
-
   .\32xl\:items-center {
     align-items: center;
   }
@@ -971,20 +967,12 @@ body {
   .\32xl\:bg-contain {
     background-size: contain;
   }
-
-  .\32xl\:pl-44 {
-    padding-left: 11rem;
-  }
 }
 
 @media (min-width: 1535px) {
   .\33xl\:min-h-fit {
     min-height: -moz-fit-content;
     min-height: fit-content;
-  }
-
-  .\33xl\:max-w-7xl {
-    max-width: 80rem;
   }
 
   .\33xl\:max-w-\[1440px\] {

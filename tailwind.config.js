@@ -13,7 +13,7 @@ module.exports = {
         "container-2": "hsl(0, 100%, 98%)",
       },
       backgroundImage: {
-        'main': "url('/images/bg-pattern-desktop.svg')",
+        'main': "url('../../images/bg-pattern-desktop.svg')",
       },
       gridTemplateRows: {
         'layout': '85px minmax(250px, 1fr) minmax(0, 2fr)',
