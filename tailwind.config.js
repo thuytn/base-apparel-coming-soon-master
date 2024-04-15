@@ -20,7 +20,7 @@ module.exports = {
         'layout2': '165px 1fr'
       },
       gridTemplateColumns: {
-        'hero': '1fr minmax(450px, 43%)'
+        'hero': '1fr minmax(450px, 610px)'
       },
       screens: {
         'lg': '992px',
